@@ -1,0 +1,7 @@
+name Test of doom
+win 1
+#############
+##EEEEEE....#
+##GGGGGGGGGG#
+##GGGGGGG#GG#
+#############
