@@ -1,5 +1,5 @@
 # Dungeon-of-Doom
-Dungeon of Doom game that can be played on the terminal.
+Text based game that can be played on the terminal.
+Built through Object Orientated Programming principles.
 Languaged used: Java.
-Went through learning the Object Orientated Programming principles.
 
